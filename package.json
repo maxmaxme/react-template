@@ -11,8 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/maxmaxme/react-template.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Maxim Lepekha",
   "bugs": {
     "url": "https://github.com/maxmaxme/react-template/issues"
   },
